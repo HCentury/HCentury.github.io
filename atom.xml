@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://HC.githubperson.com</id>
+    <id>https://HCentury.github.io</id>
     <title>HCentury的小站</title>
-    <updated>2021-03-03T03:58:51.038Z</updated>
+    <updated>2021-03-03T04:34:49.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://HC.githubperson.com"/>
-    <link rel="self" href="https://HC.githubperson.com/atom.xml"/>
+    <link rel="alternate" href="https://HCentury.github.io"/>
+    <link rel="self" href="https://HCentury.github.io/atom.xml"/>
     <subtitle>日常嗨皮</subtitle>
-    <logo>https://HC.githubperson.com/images/avatar.png</logo>
-    <icon>https://HC.githubperson.com/favicon.ico</icon>
+    <logo>https://HCentury.github.io/images/avatar.png</logo>
+    <icon>https://HCentury.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, HCentury的小站</rights>
     <entry>
-        <title type="html"><![CDATA[welcome]]></title>
-        <id>https://HC.githubperson.com/post/welcome/</id>
-        <link href="https://HC.githubperson.com/post/welcome/">
-        </link>
-        <updated>2021-03-03T03:19:37.000Z</updated>
-        <content type="html"><![CDATA[<p>welcomdsadasd<br>
-dasdasdasdasdasdasdasda</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://HC.githubperson.com/post/hello-gridea/</id>
-        <link href="https://HC.githubperson.com/post/hello-gridea/">
+        <id>https://HCentury.github.io/post/hello-gridea/</id>
+        <link href="https://HCentury.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
